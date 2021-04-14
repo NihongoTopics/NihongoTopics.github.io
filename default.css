@@ -5,6 +5,7 @@ body {
     background-color: #f0f0f0;
     color: #171546;
     width: 720px;
+    float: center;
 }
 h1, h2, h3, h4, h5, h6{
     text-align: center;
